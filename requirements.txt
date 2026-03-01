@@ -1,0 +1,6 @@
+gradio
+gradio-client
+ollama
+youtube-transcript-api
+python-dotenv
+Pillow
